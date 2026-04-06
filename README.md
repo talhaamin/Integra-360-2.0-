@@ -45,7 +45,22 @@ The result is a system positioned not only as software infrastructure, but as a 
 ## Product Gallery
 
 <p align="center">
-  <img src="Screens/1.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+  <img src="Screens/1-1.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/1-2.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/1-3.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/1-4.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/1-5.png" alt="INTEGRA 360 unified access gateway" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/1-6.png" alt="INTEGRA 360 unified access gateway" width="88%" />
 </p>
 
 <p align="center">
