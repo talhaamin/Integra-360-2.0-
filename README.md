@@ -130,6 +130,24 @@ The result is a system positioned not only as software infrastructure, but as a 
   <em>Patient charts clinical.</em>
 </p>
 
+<p align="center">
+  <img src="Screens/A-1.png" alt="INTEGRA 360 appointments" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/A-2.png" alt="INTEGRA 360 appointments" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/A-3.png" alt="INTEGRA 360 appointments" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/A-4.png" alt="INTEGRA 360 appointments" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/A-5.png" alt="INTEGRA 360 appointments" width="88%" />
+</p>
+<p align="center">
+  <em>Patient Appointments</em>
+</p>
 ## Solution Architecture
 
 ### Backend
