@@ -17,7 +17,6 @@ INTEGRA 360 (2.0) is an enterprise-grade SaaS platform designed to unify healthc
 - [Module Overview](#module-overview)
 - [SaaS 2.0 Capabilities](#saas-20-capabilities)
 - [AI Governance and Runtime](#ai-governance-and-runtime)
-- [Promotional Video Copy](#promotional-video-copy)
 - [Getting Started](#getting-started)
 - [Database-First Scaffold](#database-first-scaffold)
 - [Docker](#docker)
