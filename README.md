@@ -69,6 +69,38 @@ The result is a system positioned not only as software infrastructure, but as a 
   <em>Role-based access control and permission management for governed multi-tenant operations.</em>
 </p>
 
+<p align="center">
+  <img src="Screens/4.png" alt="INTEGRA 360 Tenant Management Login" width="88%" />
+</p>
+
+<p align="center">
+  <em>Tenant management for governed multi-tenant operations.</em>
+</p>
+
+<p align="center">
+  <img src="Screens/5.png" alt="INTEGRA 360 Tenant 360 operational Dashboard" width="88%" />
+</p>
+
+<p align="center">
+  <em>Tenant 360 operational dashboard for governing multi-tenant operations via single screen.</em>
+</p>
+
+<p align="center">
+  <img src="Screens/6.png" alt="INTEGRA 360 HMIS Login" width="88%" />
+</p>
+
+<p align="center">
+  <em>Hospital management system main landing dashboard.</em>
+</p>
+
+<p align="center">
+  <img src="Screens/7.png" alt="INTEGRA 360 HMIS dashboard" width="88%" />
+</p>
+
+<p align="center">
+  <em>Hospital management system dashbards.</em>
+</p>
+
 ## Solution Architecture
 
 ### Backend
