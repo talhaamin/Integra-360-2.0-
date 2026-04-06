@@ -94,11 +94,26 @@ The result is a system positioned not only as software infrastructure, but as a 
 </p>
 
 <p align="center">
-  <img src="Screens/7.png" alt="INTEGRA 360 HMIS dashboard" width="88%" />
+  <img src="Screens/8.png" alt="HMIS Patient Search" width="88%" />
 </p>
 
 <p align="center">
-  <em>Hospital management system dashbards.</em>
+  <em>Patient search.</em>
+</p>
+
+<p align="center">
+  <img src="Screens/9.png" alt="HMIS Patient Charts" width="88%" />
+</p>
+
+<p align="center">
+  <em>Patient charts.</em>
+</p>
+<p align="center">
+  <img src="Screens/10.png" alt="HMIS Patient Charts Clinical" width="88%" />
+</p>
+
+<p align="center">
+  <em>Patient charts clinical.</em>
 </p>
 
 ## Solution Architecture
