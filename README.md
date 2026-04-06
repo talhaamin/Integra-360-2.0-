@@ -148,6 +148,7 @@ The result is a system positioned not only as software infrastructure, but as a 
 <p align="center">
   <em>Patient Appointments</em>
 </p>
+
 ## Solution Architecture
 
 ### Backend
