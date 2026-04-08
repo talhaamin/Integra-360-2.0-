@@ -148,6 +148,33 @@ The result is a system positioned not only as software infrastructure, but as a 
 <p align="center">
   <em>Patient Appointments</em>
 </p>
+<p align="center">
+  <img src="Screens/H-1.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-2.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-3.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-4.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-5.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-6.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-7.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-8.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <em>Human Resource & Workforce Management</em>
+</p>
 
 ## Solution Architecture
 
