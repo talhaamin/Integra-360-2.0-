@@ -173,6 +173,12 @@ The result is a system positioned not only as software infrastructure, but as a 
   <img src="Screens/H-8.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
 </p>
 <p align="center">
+  <img src="Screens/H-9.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
+  <img src="Screens/H-10.png" alt="INTEGRA 360 Human Resource & Workforce Management" width="88%" />
+</p>
+<p align="center">
   <em>Human Resource & Workforce Management</em>
 </p>
 
