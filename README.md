@@ -66,21 +66,16 @@ The result is a system positioned not only as software infrastructure, but as a 
 <p align="center">
   <em>Unified application gateway for rapid access to the INTEGRA 360 app ecosystem.</em>
 </p>
-
-<p align="center">
-  <img src="Screens/2.png" alt="INTEGRA 360 operational dashboard" width="88%" />
-</p>
-
 <p align="center">
   <em>Executive and operational dashboards spanning clinical, financial, compliance, and service domains.</em>
 </p>
 
-
-
 <p align="center">
   <img src="Screens/4.png" alt="INTEGRA 360 Tenant Management Login" width="88%" />
 </p>
-
+<p align="center">
+  <img src="Screens/2.png" alt="INTEGRA 360 operational dashboard" width="88%" />
+</p>
 <p align="center">
   <em>Tenant management for governed multi-tenant operations.</em>
 </p>
@@ -96,9 +91,11 @@ The result is a system positioned not only as software infrastructure, but as a 
 <p align="center">
   <img src="Screens/6.png" alt="INTEGRA 360 HMIS Login" width="88%" />
 </p>
-
 <p align="center">
-  <em>Hospital management system main landing dashboard.</em>
+  <img src="Screens/7.png" alt="INTEGRA 360 HMIS Security Access & Control" width="88%" />
+</p>
+<p align="center">
+  <em>Hospital management system.</em>
 </p>
 <p align="center">
   <img src="Screens/3.png" alt="INTEGRA 360 role based access control" width="88%" />
